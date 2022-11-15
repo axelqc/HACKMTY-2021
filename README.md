@@ -1,4 +1,5 @@
 # HACKMTY-2021
+## Health-Path
 Nuestra inspiración fue el hecho de que cuando uno sale, es imposible no tener contacto con otras personas. Lo que representa un riesgo de contagio de Covid-19. Es sumamente complicado saber en dónde hay más gente y con que ruta se podría evitar a todas estas personas, por lo que pensamos que sería genial si un programa lo hiciera por nosotros.
 
 Es un programa que te permite navegar por zonas, buscando dentro de lo posible estar en la menor presencia de personas durante tu camino. Haciendo la ruta que te llevaría a tu destino, evitando grandes conglomerados de personas.
