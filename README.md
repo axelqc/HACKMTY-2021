@@ -5,8 +5,8 @@ Es un programa que te permite navegar por zonas, buscando dentro de lo posible e
 
 Usamos una variación del algoritmo de A* , agregando además de la distancia, un valor total de las probabilidades de que se pueda llegar a haber un contagio, tomando una de las rutas que menos contagios puede tener. Además se utlizó pygame y matplotlib para la representación gráfica:
 
-!!!!!!!!
-Donde
+![Image Text](https://github.com/axelqc/HACKMTY-2021/blob/main/gallery.jpg)
+Donde el color verde representa una zona segura (con poca gente), la zona naranja poco segura (una cantidad considerable de gente), la zona roja representa peligro (mucha gente) y los puntitos blancos representan el camino más corto evitando los conglomerados.
 
 Estamos orgullosos de haber conseguido estos resultados en tan poco tiempo (24 horas), debido a que no fue fácil lograrlo.
 
